@@ -37,7 +37,7 @@ onlyOwnerOrGov
 setGovernerContract(address)
 ```
 ### 4. Token
-ERC20 Token used for Testing Purpose
+BEP20 Token used for Testing Purpose
 
 ### 5. IWhiteList
 Interface to interact with WhiteList Contract
