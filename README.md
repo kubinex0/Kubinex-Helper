@@ -6,18 +6,18 @@ This package acts as a single source of truth for helper contracts used by the [
 npm i kubinex-helper
 ```
 ## Reference
-### 1. ERC20Helper
+### 1. BEP20Helper
 ```javascript
 //Function
-//Transfers out ERC20 tokens to ReceiverAddress
+//Transfers out BEP20 tokens to ReceiverAddress
 TransferToken(TokenAddress, ReceiverAddress, Amount)
 
 //Function
-//Checks balance of ERC20 tokens
+//Checks balance of BEP20 tokens
 CheckBalance(TokenAddress, WalletAddress)
 
 //Function
-//Transfers in ERC20 Tokens from AddressToTransferFrom(approval required). 
+//Transfers in BEP20 Tokens from AddressToTransferFrom(approval required). 
 TransferInToken(TokenAddress, AddressToTransferFrom, Amount)
 ```
 ### 2. ETHHelper
