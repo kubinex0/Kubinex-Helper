@@ -1,12 +1,12 @@
 {
-  "name": "poolz-helper",
+  "name": "kubinex-helper",
   "version": "1.0.4",
   "description": "A single source of truth of helper contracts used by Poolz.",
   "main": "truffle-config.js",
-  "homepage": "https://github.com/The-Poolz/Poolz-Helper",
+  "homepage": "https://github.com/kubinex0/Kubinex-Helper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/The-Poolz/Poolz-Helper.git"
+    "url": "https://github.com/kubinex0/Kubinex-Helper.git"
   },
   "directories": {
     "test": "test"
